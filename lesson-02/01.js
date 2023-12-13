@@ -1,4 +1,4 @@
-const doArrow = (value) => {
+const arrow = (value) => {
   console.log(value)
 }
-doArrow('Передай 5')
+arrow('Передай 5')
