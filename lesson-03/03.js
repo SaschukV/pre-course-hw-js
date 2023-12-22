@@ -11,4 +11,4 @@ const fruits = [
   "персик",
 ]
 
-console.log(fruits.slice(1, fruits.length - 1))
+console.log(fruits.slice(1, fruits.length - 2))
